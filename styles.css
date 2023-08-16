@@ -1,0 +1,306 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100%;
+    font-family: Tomorrow;
+    font-size: 20px;
+    padding-right:60px;
+
+}
+.logo{
+    width:238px;
+    padding-top:48px ;
+    padding-left: 100px;
+  
+
+}
+.menu{
+    float: right;
+    
+}
+ a {
+    text-decoration: none;
+    color: black;
+    padding: 55px 40px 10px 10px;
+    float: right;
+    margin-right: 60px;
+    word-spacing: px;
+
+    
+}
+    
+a:hover{
+    border-bottom: solid 1px black;
+}
+
+.heading {
+    width: 100%;
+    background-image: url(images/rectangle.png);
+    background-repeat: no-repeat;
+    background-size:1440px 610px ;
+    font-family:Tomorrow;
+    
+}
+.stage {
+    width: 1241px;
+    height:297px ;
+    text-align: left;
+    font-size: 56px;
+    padding: 50px ;
+    text-transform: uppercase;
+    word-spacing: 5px;
+    letter-spacing: 3%;
+}
+    .line {
+        border-bottom: 4px solid #49634e;
+         width:80%;
+         margin-top:-80px ;
+         margin-left:150px;
+        }
+    img.heading-photo{
+        width: 600px;
+        height: 355px;
+        padding-left:520px ;
+        margin-top: -150px;
+    }
+    .scroll{
+    margin-left: 90px;
+    margin-top:-400px;
+    
+    padding-bottom: 30px;
+    
+      }
+      .arrow{
+        padding-bottom:40px;
+      }
+
+      .information{
+        margin: 0 auto;
+        padding-top: 120px;
+        padding-left: 100px;
+
+      }
+      .information img {
+        width: 288px;
+        float: left;
+        padding-right: 30px;
+    
+    }
+       .section{
+        font-size: 40px;
+        font-family: Sintony;
+        
+       }
+       .medium{
+        margin-top: 150px;
+        background-image:url(images/rectangle.png);
+        width: 1440px;
+        height: 862px;
+       }
+       .medium-section{
+        width: 1030px;
+        height: 451px;
+        text-align:left;
+        padding-top: 214px;
+        padding-left: 205px;
+        font-size: 56px;
+        font-family: Tomorrow;
+        color: #FFFFFF;
+        text-transform: uppercase;
+        letter-spacing: 3%;
+        word-spacing: 10px;
+       }
+       .materialss{
+        padding-top: 120px;
+        padding-left: 100px;
+       }
+       .sneaker-photo {
+        width: 606px;
+        float: left;
+        padding-right: 30px;
+       
+        
+       }
+       .midll{
+        font-family: Sintony;
+        padding-left: 800px;
+       
+       }
+       .sneaker-section {
+        font-size: 40px;
+       }
+       .small-paragraf{
+        font-size: 24px;
+     
+       }
+       .section-next{
+        margin-top:350px;
+        background-image:url(images/backgrsection5.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 1440px;;
+        height: 862px;
+       }
+       .nexstep{
+        font-family: Tomorrow;
+        font-size:56px;
+        padding-top: 100px;
+        padding-left:735px ;
+       }
+       .modelinfo{
+        background-image: url(images/rectangle.png);
+        width: 1440px;
+        height: 1800px;
+        background-repeat: no-repeat;
+        background-size: cover; 
+        font-family: Tomorrow;
+        position: relative;
+       
+       }
+        .liner {
+        border-bottom: 4px solid #49634e;
+         width:100%;
+         padding-top: 300px;
+         margin-left: 150px;
+        }
+       .photomod{  
+        padding-left:600px;
+        margin-top: -200px;
+    }
+       .part-process{
+        width: 1050px;
+        height: 400px;
+       }
+    
+       .model{
+        font-size: 14px;
+        padding-left: 800px;
+       }
+      .process{
+       font-size: 56px;
+       padding-left: 150px;
+      }
+      .sneakers{
+        font-size: 40px;
+        padding-left: 150px;
+      }
+      .model-blac{
+        font-size: 14px;
+        padding-left: 800px;
+        padding-top: 130px;
+      }
+      .choosen{
+        background-color: black;
+        width: 215px;
+        height: 56px;
+        margin-left: 150px;
+        margin-top: -50px;
+        display: flex;
+        align-items: center;
+       
+      }
+      .choose {
+        color: white;
+        text-transform: uppercase;
+        font-size: 20px;
+        font-family: Sintony;
+        padding-left: 50px;
+        
+
+      }
+
+      .materials{
+        padding-top: 600px;
+        text-align: center;
+        display: flex;
+        justify-content:center;
+
+      }
+      .part{
+        font-size: 56px;
+        font-family: Tomorrow;
+        padding-top: 200px;
+        margin-right: 100px;
+
+      }
+      .coton{
+        font-size: 20px;
+        font-family: Sintony;
+      }
+      .vegan{
+        margin-top: 48px;
+      }
+      .vegann{
+        margin-left: 150px;
+      }
+      .natural{
+        margin-top: 48px;
+      }
+      .end{
+        margin-top: 50px;
+        background-image: url(images/uneak\(1\)\ 1.png);
+        width: 1440px;
+        height: 862px;
+      }
+      .mix{
+        font-size: 56px;
+        font-family: Tomorrow;
+        text-align: center;
+        padding-top: 370px;
+      }
+      .contacts{
+        background-image: url(/images/rectangle.png);
+        width: 1440px;
+        height: 561px;
+        display: flex;
+        justify-content: center;
+        padding-top: 100px;
+        font-family: Sintony;
+      }
+      .isnan{
+        padding-right: 400px;
+      }
+      .join{
+        font-weight: 700;
+      }
+      .sing{
+        padding-top: 120px;
+      }
+      .mail{
+        padding-left: 200px;
+      }
+      .adress{
+        border-bottom: 2px solid #49634e;
+        width:100%;
+        margin-bottom: 20px;
+       
+      }
+      .black{
+        background-color: black;
+        width: 215px;
+        height: 56px;
+        display: flex;
+        align-items: center;
+      
+      }
+      .clic{
+        color: white;
+        padding-left:70px;
+       
+       
+      }
+      .privat{
+        width: 600px;
+       padding-left: 400px;
+        font-family: Sintonu;
+        font-size: 14px;
+        display: flex;
+       justify-content:space-around;
+        padding: 20px o;
+
+        margin-top: -100px;
+        
+      }
+
